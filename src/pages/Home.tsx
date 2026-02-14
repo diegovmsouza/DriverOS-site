@@ -37,7 +37,7 @@ function Home() {
                     <ul className="navbar-links">
                         <li><a href="#features">Recursos</a></li>
                         <li><a href="#how-it-works">Como Funciona</a></li>
-                        <li><a href="https://github.com/diegovmsouza/DriverOS-android/releases/download/v3.0.0/app-release.apk" className="btn-cta">Baixar App</a></li>
+                        <li><a href="https://github.com/diegovmsouza/DriverOS-android/releases/latest/download/driveros.apk" className="btn-cta">Baixar App</a></li>
                     </ul>
                 </div>
             </nav>
@@ -58,7 +58,7 @@ function Home() {
                                 Controle financeiro completo, gestão de turnos inteligente e análises com IA para você saber exatamente quanto ganha — e como ganhar mais.
                             </p>
                             <div className="hero-buttons">
-                                <a href="https://github.com/diegovmsouza/DriverOS-android/releases/download/v3.0.0/app-release.apk" className="btn-cta">
+                                <a href="https://github.com/diegovmsouza/DriverOS-android/releases/latest/download/driveros.apk" className="btn-cta">
                                     <svg width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="2.5" strokeLinecap="round" strokeLinejoin="round"><path d="M21 15v4a2 2 0 0 1-2 2H5a2 2 0 0 1-2-2v-4" /><polyline points="7 10 12 15 17 10" /><line x1="12" y1="15" x2="12" y2="3" /></svg>
                                     Baixar para Android
                                 </a>
@@ -180,7 +180,7 @@ function Home() {
                         <h2>Pronto para saber quanto<br />você <span style={{ color: 'var(--accent-green)' }}>realmente</span> ganha?</h2>
                         <p>Baixe o DriverOS gratuitamente e transforme a forma como você gerencia seus ganhos como motorista.</p>
                         <div style={{ display: 'flex', gap: 16, justifyContent: 'center', flexWrap: 'wrap' }}>
-                            <a href="https://github.com/diegovmsouza/DriverOS-android/releases/download/v3.0.0/app-release.apk" className="btn-cta" style={{ fontSize: '0.85rem', padding: '16px 36px' }}>
+                            <a href="https://github.com/diegovmsouza/DriverOS-android/releases/latest/download/driveros.apk" className="btn-cta" style={{ fontSize: '0.85rem', padding: '16px 36px' }}>
                                 <svg width="22" height="22" viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="2.5" strokeLinecap="round" strokeLinejoin="round"><path d="M21 15v4a2 2 0 0 1-2 2H5a2 2 0 0 1-2-2v-4" /><polyline points="7 10 12 15 17 10" /><line x1="12" y1="15" x2="12" y2="3" /></svg>
                                 Baixar APK
                             </a>
