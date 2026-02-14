@@ -1,0 +1,15 @@
+{
+  "projects": {
+    "default": "gen-lang-client-0521173639"
+  },
+  "targets": {
+    "gen-lang-client-0521173639": {
+      "hosting": {
+        "driveros-site": [
+          "driveros-site"
+        ]
+      }
+    }
+  },
+  "etags": {}
+}
