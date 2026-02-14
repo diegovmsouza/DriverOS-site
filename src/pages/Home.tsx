@@ -102,7 +102,7 @@ function Home() {
                             icon="💰"
                             color="green"
                             title="Controle Financeiro"
-                            description="Registre ganhos por plataforma (Uber, 99, InDriver), despesas e veja seu lucro real em tempo real."
+                            description="Registre ganhos por plataforma (Uber, 99, Particular), despesas e veja seu lucro real em tempo real."
                             delay={0}
                         />
                         <FeatureCard
@@ -116,14 +116,14 @@ function Home() {
                             icon="⛽"
                             color="blue"
                             title="Controle de Combustível"
-                            description="Registre abastecimentos, acompanhe consumo médio (km/l) e custo por quilômetro."
+                            description="Registre abastecimentos por tipo de combustível, acompanhe consumo médio (km/l) e custo por quilômetro."
                             delay={2}
                         />
                         <FeatureCard
                             icon="🤖"
                             color="purple"
-                            title="Análise com IA"
-                            description="O Gemini analisa seus dados e sugere melhorias para maximizar seus ganhos e reduzir custos."
+                            title="Análise com IA e Radar"
+                            description="O Gemini analisa seus dados e sugere melhorias para maximizar seus ganhos e reduzir custos. O Radar te ajuda com os melhores pontos de apoio para banheiro e alimentação."
                             delay={3}
                         />
                         <FeatureCard
