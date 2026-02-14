@@ -220,10 +220,11 @@ function App() {
 
 function PhoneMockup() {
     const screenshots = [
+        '/screenshot-home.png',
         '/screenshot-dashboard.jpg',
         '/screenshot-ia.jpg',
     ]
-    const labels = ['Dashboard', 'DriverOS Intelligence']
+    const labels = ['Início / Turno Ativo', 'Dashboard Financeiro', 'DriverOS Intelligence']
     const [current, setCurrent] = useState(0)
 
     useEffect(() => {
