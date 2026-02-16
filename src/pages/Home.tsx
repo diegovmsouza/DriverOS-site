@@ -49,7 +49,7 @@ function Home() {
                         <div className="hero-text">
                             <div className="hero-badge">
                                 <span className="dot"></span>
-                                Versão 3.0 disponível
+                                Versão 4.0.0 disponível
                             </div>
                             <h1>
                                 O sistema operacional do <span className="highlight">motorista</span>
